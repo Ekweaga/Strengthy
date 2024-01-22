@@ -9,9 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/next-js": "^2.1.5",
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "axios": "^1.5.1",
+    "bcryptjs": "^2.4.3",
+    "framer-motion": "^10.16.4",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.6.2",
+    "next": "13.5.4",
+    "nodemailer": "^6.9.6",
     "react": "^18",
     "react-dom": "^18",
-    "next": "13.5.4"
+    "three": "^0.157.0"
   },
   "devDependencies": {
     "autoprefixer": "^10",
